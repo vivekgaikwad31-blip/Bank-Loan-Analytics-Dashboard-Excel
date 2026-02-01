@@ -28,7 +28,6 @@ This project analyzes bank loan data using Microsoft Excel to understand loan tr
 - Analytical thinking with pivot tables  
 - Building interactive dashboards in Excel  
 
-## 📊 Dashboard Preview
-(Upload dashboard screenshot here)
+
 
 ---
